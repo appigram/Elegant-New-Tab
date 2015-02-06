@@ -1,7 +1,7 @@
 <h2>Elegant New Tab- A better New Tab for Chrome.</h2>
 <img src="https://raw.githubusercontent.com/udaiarora/Elegant-New-Tab/master/Screens/1s.png" alt="ScreenShot"><br>
 <img src="https://raw.githubusercontent.com/udaiarora/Elegant-New-Tab/master/Screens/2s.png" alt="ScreenShot"><br>
-<img src="https://raw.githubusercontent.com/udaiarora/Elegant-New-Tab/master/Screens/7.png" alt="ScreenShot"><br>
+<img src="https://raw.githubusercontent.com/udaiarora/Elegant-New-Tab/master/Screens/8.png" alt="ScreenShot"><br>
 <img src="https://raw.githubusercontent.com/udaiarora/Elegant-New-Tab/master/Screens/4.png" alt="ScreenShot"><br>
 
 <h2>Installation</h2>

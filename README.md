@@ -1,4 +1,5 @@
 <h2>Elegant New Tab- A better New Tab for Chrome.</h2>
+Elegant New Tab is <a href="https://chrome.google.com/webstore/detail/elegant-new-tab/mbiejchpmhfhdoocmgdmndigicjmkhdo">live</a>
 <img src="https://raw.githubusercontent.com/udaiarora/Elegant-New-Tab/master/Screens/1s.png" alt="ScreenShot"><br>
 <img src="https://raw.githubusercontent.com/udaiarora/Elegant-New-Tab/master/Screens/2s.png" alt="ScreenShot"><br>
 <img src="https://raw.githubusercontent.com/udaiarora/Elegant-New-Tab/master/Screens/3s.png" alt="ScreenShot"><br>
@@ -14,11 +15,6 @@
 - Open Source <br>
 - Fast! <br>
 - More Coming Soon <br><br>
-
-<h2>Installation Instructions </h2>
-1. Download/Clone this repository <br>
-2. Goto Chrome Settings -> Extensions -> Enable Developer Mode -> Load Unpacked Extensions -> Select the location <br>
-3. Raise Bug Reports here : https://github.com/udaiarora/Elegant-New-Tab/issues <br><br>
 
 <h2>Attributions</h2>
 Weather Animations inspired by Fabrizio Bianchi's Code Pen <br>

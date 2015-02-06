@@ -1,9 +1,11 @@
 <h2>Elegant New Tab- A better New Tab for Chrome.</h2>
-Elegant New Tab is <a href="https://chrome.google.com/webstore/detail/elegant-new-tab/mbiejchpmhfhdoocmgdmndigicjmkhdo">live</a>
 <img src="https://raw.githubusercontent.com/udaiarora/Elegant-New-Tab/master/Screens/1s.png" alt="ScreenShot"><br>
 <img src="https://raw.githubusercontent.com/udaiarora/Elegant-New-Tab/master/Screens/2s.png" alt="ScreenShot"><br>
 <img src="https://raw.githubusercontent.com/udaiarora/Elegant-New-Tab/master/Screens/3s.png" alt="ScreenShot"><br>
 <img src="https://raw.githubusercontent.com/udaiarora/Elegant-New-Tab/master/Screens/4.png" alt="ScreenShot"><br>
+
+<h2>Installation</h2>
+Elegant New Tab is <a href="https://chrome.google.com/webstore/detail/elegant-new-tab/mbiejchpmhfhdoocmgdmndigicjmkhdo">live</a>
 
 <h2>Features</h2>
 - Inspired by Material Design <br>

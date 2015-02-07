@@ -46,7 +46,7 @@
 	background: #FFFFFF;
 	border-radius: 50%;
 	box-shadow: 
-	#FFFFFF 65px -15px 0 -5px, 
+	#FFFFFF 65px -15px 0 -2px, 
 	#FFFFFF 25px -25px, 
 	#FFFFFF 30px 10px, 
 	#FFFFFF 60px 15px 0 -10px, 
@@ -93,7 +93,7 @@
 	background: #CCCCCC; 
 	border-radius: 50%;
 	box-shadow: 
-	#CCCCCC 65px -15px 0 -5px, 
+	#CCCCCC 65px -15px 0 -2px, 
 	#CCCCCC 25px -25px, 
 	#CCCCCC 30px 10px, 
 	#CCCCCC 60px 15px 0 -10px, 
@@ -124,10 +124,10 @@
 	-webkit-animation: rainy_rain .7s infinite linear;
 	animation: rainy_rain .7s infinite linear;
 	content: '';
-	background: #CCCCCC;
+	background: rgba(0,0,0,0);
 	border-radius: 50%;
 	display: block;
-	height: 6px;
+	height: 10px;
 	width: 3px;
 	opacity: 0.3;
 	-webkit-transform: scale(.9);

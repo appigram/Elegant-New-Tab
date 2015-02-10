@@ -234,8 +234,8 @@ var elegantNewTabApp = (function ($, document, chromeLocalStorage, navigator, co
 				tmp.href = d[i].url;
 				var arr = tmp.hostname.split(".");
 
-				// var logoUrl = "chrome://favicon/http://"+tmp.hostname;
-				var logoUrl = "https://www.google.com/s2/favicons?domain=http://"+tmp.hostname;
+				var logoUrl = "chrome://favicon/"+tmp.href;
+				// var logoUrl = "https://www.google.com/s2/favicons?domain=http://"+tmp.hostname;
 				var favIco= "<img class='favico' src='"+logoUrl+"'/>";
 				topSiteHTML+="<a href='" +d[i].url+ "'class='top-site btn btn-default top-site-animate'>"+favIco+"<span class='favico-text'>"+d[i].title+"</span><span class='close hidden' data-link='"+d[i].url+"'></span></a>";
 			}
